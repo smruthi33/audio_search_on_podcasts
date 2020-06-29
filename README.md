@@ -11,7 +11,7 @@ When the reader has completed this code pattern, they will understand how to:
 * Prepare audio/video data and perform chunking to break it into smaller chunks to work with.
 * Work with the `Watson Speech to Text` service through API calls to convert audio/video to text.
 * Work with the `Watson Discovery` service through API calls to perform search on text chunks.
-* Create a python flask Application and deploy on IBM Cloud.
+* Create a python flask Application and deploy on IBM Clou
 
 ![architecture](doc/source/images/Architecture.png)
 
